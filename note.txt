@@ -1,0 +1,5 @@
+(Q) What is JavaScript ?
+ => #JavaScript is a high-level interpreted programming language that makes it possible to create interactive web pages and online apps with dynamic functionality. 
+    #Commonly referred as the universal language, JavaScript is primarily used by developers for front-end and back-end work.
+(Q) What are variables in JavaScript ?
+=>  # A variables is used to store the data
