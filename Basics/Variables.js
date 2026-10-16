@@ -52,11 +52,20 @@
 
 /* practice Question */
 
+// let currentSalary = 58333;
+// const targetSalary = 80000;
+// let updatedSalary = 65000;
+
+// console.log("currentSalary:", currentSalary);
+// console.log("targetSalary:", targetSalary);
+// console.log("updatedSalary:", updatedSalary);
+
+/* New Approach  */
+
 let currentSalary = 58333;
 const targetSalary = 80000;
-let updatedSalary = 65000;
+
+currentSalary = 65000;
 
 console.log("currentSalary:", currentSalary);
 console.log("targetSalary:", targetSalary);
-console.log("updatedSalary:", updatedSalary);
-
