@@ -42,10 +42,21 @@
 
 /* Create a program in which print these variable */
 
+// let currentSalary = 58333;
+// const targetSalary = 80000;
+// let companyName = "Autonex.ai";
+
+// console.log("currentSalary:", currentSalary);
+// console.log("targetSalary:", targetSalary);
+// console.log("companyName:", companyName);
+
+/* practice Question */
+
 let currentSalary = 58333;
 const targetSalary = 80000;
-let companyName = "Autonex.ai";
+let updatedSalary = 65000;
 
 console.log("currentSalary:", currentSalary);
 console.log("targetSalary:", targetSalary);
-console.log("companyName:", companyName);
+console.log("updatedSalary:", updatedSalary);
+
