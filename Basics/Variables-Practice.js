@@ -21,3 +21,12 @@
 // - console.log() — terminal mein value print karta hai.
 
 
+/* Q3 Variable naming */
+
+const myCity = "Mumbai";
+const favouriteLanguage = "JavaScript";
+const learningHours = 2;
+
+console.log("myCity:", myCity);
+console.log("favouriteLanguage:", favouriteLanguage);
+console.log("learningHours:", learningHours);
