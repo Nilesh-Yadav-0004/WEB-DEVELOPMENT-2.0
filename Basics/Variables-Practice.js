@@ -39,5 +39,5 @@
 
 /* TASK 2 const practice */
 
-const country = "India";
-console.log("country:", country);
+// const country = "India";
+// console.log("country:", country);
