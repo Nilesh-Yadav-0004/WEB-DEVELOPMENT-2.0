@@ -31,8 +31,13 @@
 // console.log("favouriteLanguage:", favouriteLanguage);
 // console.log("learningHours:", learningHours);
 
-// TASK 1 change the value of Let
+/*  TASK 1 change the value of Let */
 
-let score = 50;
-score = 60;
-console.log("score:", score);
+// let score = 50;
+// score = 60;
+// console.log("score:", score);
+
+/* TASK 2 const practice */
+
+const country = "India";
+console.log("country:", country);
