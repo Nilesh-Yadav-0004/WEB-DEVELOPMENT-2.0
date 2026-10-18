@@ -23,10 +23,16 @@
 
 /* Q3 Variable naming */
 
-const myCity = "Mumbai";
-const favouriteLanguage = "JavaScript";
-const learningHours = 2;
+// const myCity = "Mumbai";
+// const favouriteLanguage = "JavaScript";
+// const learningHours = 2;
 
-console.log("myCity:", myCity);
-console.log("favouriteLanguage:", favouriteLanguage);
-console.log("learningHours:", learningHours);
+// console.log("myCity:", myCity);
+// console.log("favouriteLanguage:", favouriteLanguage);
+// console.log("learningHours:", learningHours);
+
+// TASK 1 change the value of Let
+
+let score = 50;
+score = 60;
+console.log("score:", score);
