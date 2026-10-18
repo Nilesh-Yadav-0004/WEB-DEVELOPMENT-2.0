@@ -41,3 +41,5 @@
 
 // const country = "India";
 // console.log("country:", country);
+
+/* TASK 3 Create a variable */
