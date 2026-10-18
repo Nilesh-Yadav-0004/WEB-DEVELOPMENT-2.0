@@ -20,8 +20,6 @@ console.log("isLearningJavaScript:", typeof isLearningJavaScript);
 console.log("favouriteColor:", typeof favouriteColor);
 console.log("selectedCourse:", typeof selectedCourse);
 
- 
-
 
 
 

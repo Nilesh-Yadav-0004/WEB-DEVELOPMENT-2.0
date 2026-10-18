@@ -3,3 +3,6 @@
     #Commonly referred as the universal language, JavaScript is primarily used by developers for front-end and back-end work.
 (Q) What are variables in JavaScript ?
 =>  # A variables is used to store the data
+
+(Q) What is datatype in JavaScript?
+=> #
