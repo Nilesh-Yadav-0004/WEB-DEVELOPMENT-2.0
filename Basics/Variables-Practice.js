@@ -43,3 +43,11 @@
 // console.log("country:", country);
 
 /* TASK 3 Create a variable */
+
+let studentName = "Nilesh Yadav";
+let favouriteLanguage = "JavaScript";
+let practiceHours = 2;
+
+console.log("studentName:", studentName);
+console.log("favouriteLanguage:", favouriteLanguage);
+console.log("practiceHours:", practiceHours);
