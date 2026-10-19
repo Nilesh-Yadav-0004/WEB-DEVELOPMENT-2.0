@@ -5,4 +5,5 @@
 =>  # A variables is used to store the data
 
 (Q) What is datatype in JavaScript?
-=> #
+=> #There are two types of datatype (1) Primitive Datatype.
+(2) Non Primitive Datatype.
