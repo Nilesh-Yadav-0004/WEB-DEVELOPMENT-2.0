@@ -17,26 +17,26 @@
 
 /* Task  */
 
-let fullName = "Nilesh Yadav";
-let monthlySalary = 58000;
-let isLearningJavaScript = true;
-let favouriteLanguage;
-let selectedCourse= null;
+// let fullName = "Nilesh Yadav";
+// let monthlySalary = 58000;
+// let isLearningJavaScript = true;
+// let favouriteLanguage;
+// let selectedCourse= null;
 
-console.log("FullName:", fullName);
-console.log("Datatype:", typeof fullName);
+// console.log("FullName:", fullName);
+// console.log("Datatype:", typeof fullName);
 
-console.log("MonthlySalary:", monthlySalary);
-console.log("Datatype:", typeof monthlySalary);
+// console.log("MonthlySalary:", monthlySalary);
+// console.log("Datatype:", typeof monthlySalary);
 
-console.log("IsLearningJavaScript:", isLearningJavaScript);
-console.log("Datatype:", typeof isLearningJavaScript);
+// console.log("IsLearningJavaScript:", isLearningJavaScript);
+// console.log("Datatype:", typeof isLearningJavaScript);
 
-console.log("Favouritelanguage:", favouriteLanguage);
-console.log("Datatype:", typeof favouriteLanguage);
+// console.log("Favouritelanguage:", favouriteLanguage);
+// console.log("Datatype:", typeof favouriteLanguage);
 
-console.log("SelectedCourse:", selectedCourse);
-console.log("Datatype:", typeof selectedCourse);
+// console.log("SelectedCourse:", selectedCourse);
+// console.log("Datatype:", typeof selectedCourse);
 
 
 
