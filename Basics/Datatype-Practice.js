@@ -38,6 +38,6 @@
 // console.log("SelectedCourse:", selectedCourse);
 // console.log("Datatype:", typeof selectedCourse);
 
-
+/* Important bullet point in Datatype */
 
 
