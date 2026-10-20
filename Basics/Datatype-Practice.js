@@ -39,5 +39,10 @@
 // console.log("Datatype:", typeof selectedCourse);
 
 /* Important bullet point in Datatype */
+// Ye JavaScript ka ek historical quirk (purana behaviour) hai. null ka matlab jaanbujhkar empty value rakhna hai, lekin typeof null phir bhi "object" return karta hai.
 
+// Yaad rakho:
+// - undefined → value assign nahi hui.
+// - null → jaanbujhkar empty value assign ki.
+// typeof null → "object" (JavaScript ka special case).
 
