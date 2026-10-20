@@ -21,4 +21,23 @@ let fullName = "Nilesh Yadav";
 let monthlySalary = 58000;
 let isLearningJavaScript = true;
 let favouriteLanguage;
-let 
+let selectedCourse= null;
+
+console.log("FullName:", fullName);
+console.log("Datatype:", typeof fullName);
+
+console.log("MonthlySalary:", monthlySalary);
+console.log("Datatype:", typeof monthlySalary);
+
+console.log("IsLearningJavaScript:", isLearningJavaScript);
+console.log("Datatype:", typeof isLearningJavaScript);
+
+console.log("Favouritelanguage:", favouriteLanguage);
+console.log("Datatype:", typeof favouriteLanguage);
+
+console.log("SelectedCourse:", selectedCourse);
+console.log("Datatype:", typeof selectedCourse);
+
+
+
+
