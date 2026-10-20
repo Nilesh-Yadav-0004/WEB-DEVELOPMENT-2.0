@@ -20,4 +20,5 @@
 let fullName = "Nilesh Yadav";
 let monthlySalary = 58000;
 let isLearningJavaScript = true;
+let favouriteLanguage;
 let 
