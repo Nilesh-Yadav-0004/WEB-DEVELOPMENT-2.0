@@ -8,4 +8,4 @@ let age ="50";
 let convertedValue = Number(value);
 
 console.log(convertedValue + 10);
-console.log(typeof convertedValue)
+console.log(typeof convertedValue);
