@@ -9,4 +9,4 @@
 (2) Non Primitive Datatype.
 
 (Q) TypeConversion in JS?
-=> #
+=> # used to change string to number.
