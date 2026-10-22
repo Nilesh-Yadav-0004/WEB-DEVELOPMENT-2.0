@@ -10,3 +10,4 @@
 
 (Q) TypeConversion in JS?
 => # used to change string to number.
+   #To change type of Values. 
