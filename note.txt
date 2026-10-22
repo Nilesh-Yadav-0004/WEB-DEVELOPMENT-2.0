@@ -13,3 +13,5 @@
    #To change type of Values. 
    eg:- "100"(string) -> 100(number).  
    There are two type of TypeConversion in JS...
+   (1) Implicit Conversion.
+   (2) Explicit Conversion.
