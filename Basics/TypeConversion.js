@@ -16,3 +16,4 @@ let price = "75";
 let convertedValue =  Number(value);
 
 console.log(convertedValue + 25);
+console.log(typeof convertedValue);
