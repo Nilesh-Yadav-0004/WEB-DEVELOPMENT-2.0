@@ -14,8 +14,8 @@
 
 // 1. Basic conversion wala
 
-let price = "75";
-let convertedValue =  Number(price);
+// let price = "75";
+// let convertedValue =  Number(price);
 
-console.log(convertedValue + 25);
-console.log(typeof convertedValue);
+// console.log(convertedValue + 25);
+// console.log(typeof convertedValue);
