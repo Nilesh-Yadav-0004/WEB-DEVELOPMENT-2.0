@@ -13,4 +13,6 @@
 /* Task for TypeConversion */
 
 let price = "75";
-let convertedValue
+let convertedValue =  Number(value);
+
+console.log(convertedValue + 25);
