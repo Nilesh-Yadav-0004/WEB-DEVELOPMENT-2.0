@@ -22,4 +22,5 @@
 
 // 2 String conversion wala
 
-let 
+let num = 500;
+let convertedValue = String(Number);
