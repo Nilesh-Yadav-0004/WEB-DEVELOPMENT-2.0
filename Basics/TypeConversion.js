@@ -24,3 +24,6 @@
 
 let num = 500;
 let convertedValue = String(Number);
+
+console.log(convertedValue + 500);
+console.log(typeof convertedValue);
