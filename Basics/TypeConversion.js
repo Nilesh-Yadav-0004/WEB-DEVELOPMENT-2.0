@@ -11,3 +11,6 @@
 // console.log(typeof convertedValue);
 
 /* Task for TypeConversion */
+
+let price = "75";
+let 
