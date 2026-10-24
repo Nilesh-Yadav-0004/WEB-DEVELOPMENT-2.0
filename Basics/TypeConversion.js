@@ -13,7 +13,7 @@
 /* Task for TypeConversion */
 
 // 1. Basic conversion wala
-
+// (Q) Convert the string into the number and add 25 in it.
 // let price = "75";
 // let convertedValue =  Number(price);
 
@@ -21,3 +21,5 @@
 // console.log(typeof convertedValue);
 
 // 2 String conversion wala
+
+let 
