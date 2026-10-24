@@ -13,7 +13,7 @@
 /* Task for TypeConversion */
 
 let price = "75";
-let convertedValue =  Number(value);
+let convertedValue =  Number(price);
 
 console.log(convertedValue + 25);
 console.log(typeof convertedValue);
