@@ -12,6 +12,8 @@
 
 /* Task for TypeConversion */
 
+// 1. Basic conversion wala
+
 let price = "75";
 let convertedValue =  Number(price);
 
