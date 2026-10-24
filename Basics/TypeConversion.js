@@ -13,4 +13,4 @@
 /* Task for TypeConversion */
 
 let price = "75";
-let 
+let convertedValue
