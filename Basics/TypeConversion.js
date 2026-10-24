@@ -19,3 +19,5 @@
 
 // console.log(convertedValue + 25);
 // console.log(typeof convertedValue);
+
+// 2 String conversion wala
