@@ -68,3 +68,6 @@ console.log(result1);
 console.log(result2);
 console.log(result3);
 
+console.log(typeof result1);
+console.log(typeof result2);
+console.log(typeof result3);
