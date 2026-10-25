@@ -39,17 +39,24 @@
 
 // Task 3: Boolean Conversion
 
-let num1 = 0;
-let num2 = 1;
-let text1 = "";
-let text2 = "Hello";
+// let num1 = 0;
+// let num2 = 1;
+// let text1 = "";
+// let text2 = "Hello";
 
-let result1 = Boolean(num1);
-let result2 = Boolean(num2);
-let result3 = Boolean(text1);
-let result4 = Boolean(text2);
+// let result1 = Boolean(num1);
+// let result2 = Boolean(num2);
+// let result3 = Boolean(text1);
+// let result4 = Boolean(text2);
 
-console.log(result1);
-console.log(result2);
-console.log(result3);
-console.log(result4);
+// console.log(result1);
+// console.log(result2);
+// console.log(result3);
+// console.log(result4);
+
+
+// 4 Type Coercion
+
+let a = "10";
+let b = 5;
+
