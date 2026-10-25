@@ -43,3 +43,9 @@ let text2 = "Hello";
 let result1 = Boolean(num1);
 let result2 = Boolean(num2);
 let result3 = Boolean(num3);
+let result4 = Boolean(num4);
+
+console.log(result1);
+console.log(result2);
+console.log(result3);
+console.log(result4);
