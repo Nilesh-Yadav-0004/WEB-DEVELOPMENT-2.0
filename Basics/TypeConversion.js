@@ -83,13 +83,13 @@
 
 // 6 ParseInt() vs Number()
 
-let decimalValue = "45.8";
+// let decimalValue = "45.8";
 
-let result1 = parseInt(decimalValue);
-let result2 = Number(decimalValue);
+// let result1 = parseInt(decimalValue);
+// let result2 = Number(decimalValue);
 
-console.log(result1);
-console.log(result2);
+// console.log(result1);
+// console.log(result2);
 
-console.log(typeof result1);
-console.log(typeof result2);
+// console.log(typeof result1);
+// console.log(typeof result2);
