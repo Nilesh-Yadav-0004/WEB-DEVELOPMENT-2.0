@@ -85,3 +85,6 @@
 
 let decimalValue = "45.8";
 
+let result1 = parseInt(decimalValue);
+let result2 = Number(decimalValue);
+
