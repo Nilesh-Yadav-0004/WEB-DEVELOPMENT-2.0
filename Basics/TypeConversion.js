@@ -34,4 +34,4 @@
 // String(Number) → Number function ko string mein convert karta hai.
 // String(500) → "500" return karta hai.
 
-// (Q)
+// (Q) Boolean 
