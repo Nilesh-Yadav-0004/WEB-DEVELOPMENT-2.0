@@ -80,3 +80,8 @@
 // console.log(convertedValue);
 // console.log(typeof convertedValue);
 // console.log(Number.isNaN(convertedValue));
+
+// 6 ParseInt() vs Number()
+
+let decimalValue = "45.8";
+
