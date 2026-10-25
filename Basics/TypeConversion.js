@@ -27,3 +27,5 @@
 
 // console.log(convertedValue + "rupees");
 // console.log(typeof convertedValue);
+
+/* Important points */
