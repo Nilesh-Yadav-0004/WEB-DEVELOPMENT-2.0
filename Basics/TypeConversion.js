@@ -37,13 +37,17 @@
 // (Q) Boolean  
 // Boolean(0), Boolean(1), Boolean("") aur Boolean("Hello") ke outputs print karo.
 
+// Task 3: Boolean Conversion
+
+let num1 = 0;
+let num2 = 1;
 let text1 = "";
 let text2 = "Hello";
 
 let result1 = Boolean(num1);
 let result2 = Boolean(num2);
-let result3 = Boolean(num3);
-let result4 = Boolean(num4);
+let result3 = Boolean(text1);
+let result4 = Boolean(text2);
 
 console.log(result1);
 console.log(result2);
