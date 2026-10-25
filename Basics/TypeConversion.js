@@ -33,3 +33,5 @@
 // String(num) → variable ki value ko string mein convert karta hai.
 // String(Number) → Number function ko string mein convert karta hai.
 // String(500) → "500" return karta hai.
+
+// (Q)
