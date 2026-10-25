@@ -62,4 +62,4 @@ let b = 5;
 
 let result1 = a + b;
 let result2 = a - b;
-let result3 
+let result3 = a * b;
