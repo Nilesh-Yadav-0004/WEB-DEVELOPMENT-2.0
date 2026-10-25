@@ -101,3 +101,8 @@ let deliveryCharge = 50;
 
 let convertedPrice = Number(productPrice);
 let totalBill = convertedValue + deliveryCharge;
+
+console.log("product Price:", productPrice);
+console.log("Delivery Charge:", deliveryCharge);
+console.log("Totalbill:", totalBill);
+console.log("Data Type:", typeof totalBill);
