@@ -34,4 +34,7 @@
 // String(Number) → Number function ko string mein convert karta hai.
 // String(500) → "500" return karta hai.
 
-// (Q) Boolean 
+// (Q) Boolean  
+// Boolean(0), Boolean(1), Boolean("") aur Boolean("Hello") ke outputs print karo.
+
+let 
