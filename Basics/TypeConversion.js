@@ -74,9 +74,9 @@
 
 // 5 NaN
 
-let value = "abc";
-let convertedValue = Number(value);
+// let value = "abc";
+// let convertedValue = Number(value);
 
-console.log(convertedValue);
-console.log(typeof convertedValue);
-console.log(Number.isNaN(convertedValue));
+// console.log(convertedValue);
+// console.log(typeof convertedValue);
+// console.log(Number.isNaN(convertedValue));
