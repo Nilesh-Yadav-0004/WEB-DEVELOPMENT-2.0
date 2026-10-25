@@ -60,3 +60,6 @@
 let a = "10";
 let b = 5;
 
+let result1 = a + b;
+let result2 = a - b;
+let result3 
