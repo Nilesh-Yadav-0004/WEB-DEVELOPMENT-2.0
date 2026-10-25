@@ -37,4 +37,7 @@
 // (Q) Boolean  
 // Boolean(0), Boolean(1), Boolean("") aur Boolean("Hello") ke outputs print karo.
 
+let text1 = "";
+let text2 = "Hello";
+
 let 
