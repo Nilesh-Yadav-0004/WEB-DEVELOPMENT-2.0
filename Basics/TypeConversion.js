@@ -40,4 +40,6 @@
 let text1 = "";
 let text2 = "Hello";
 
-let 
+let result1 = Boolean(num1);
+let result2 = Boolean(num2);
+let result3 = Boolean(num3);
