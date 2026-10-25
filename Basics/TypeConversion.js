@@ -22,8 +22,8 @@
 
 // 2 String conversion wala
 
-let num = 500;
-let convertedValue = String(num);
+// let num = 500;
+// let convertedValue = String(num);
 
-console.log(convertedValue + "rupees");
-console.log(typeof convertedValue);
+// console.log(convertedValue + "rupees");
+// console.log(typeof convertedValue);
