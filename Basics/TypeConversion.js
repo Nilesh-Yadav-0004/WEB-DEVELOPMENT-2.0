@@ -93,3 +93,9 @@
 
 // console.log(typeof result1);
 // console.log(typeof result2);
+
+// 7 Real-World bill 
+
+let productPrice = "999";
+let deliveryCharge = 50;
+
