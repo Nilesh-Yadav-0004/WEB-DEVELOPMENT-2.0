@@ -57,17 +57,26 @@
 
 // 4 Type Coercion
 
-let a = "10";
-let b = 5;
+// let a = "10";
+// let b = 5;
 
-let result1 = a + b;
-let result2 = a - b;
-let result3 = a * b;
+// let result1 = a + b;
+// let result2 = a - b;
+// let result3 = a * b;
 
-console.log(result1);
-console.log(result2);
-console.log(result3);
+// console.log(result1);
+// console.log(result2);
+// console.log(result3);
 
-console.log(typeof result1);
-console.log(typeof result2);
-console.log(typeof result3);
+// console.log(typeof result1);
+// console.log(typeof result2);
+// console.log(typeof result3);
+
+// 5 NaN
+
+let value = "abc";
+let convertedValue = Number(value);
+
+console.log(convertedValue);
+console.log(typeof convertedValue);
+console.log(Number.isNaN(convertedValue));
