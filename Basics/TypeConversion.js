@@ -99,3 +99,5 @@
 let productPrice = "999";
 let deliveryCharge = 50;
 
+let convertedPrice = Number(productPrice);
+let totalBill = convertedValue + deliveryCharge;
