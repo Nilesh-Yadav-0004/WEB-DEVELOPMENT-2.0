@@ -38,8 +38,8 @@
 // Boolean(0), Boolean(1), Boolean("") aur Boolean("Hello") ke outputs print karo.
 
 // Task 3: Boolean Conversion
-// Boolean(0), Boolean(1), Boolean("") aur Boolean("Hello") print the output
-// let num1 = 0;
+// Boolean(0), Boolean(1), Boolean("") aur Boolean("Hello") print the output// let num1 = 0;
+
 // let num2 = 1;
 // let text1 = "";
 // let text2 = "Hello";
@@ -56,6 +56,7 @@
 
 
 // 4 Type Coercion
+//"10" + 5, "10" -5 and "10" * 5 print the output.
 
 // let a = "10";
 // let b = 5;
@@ -73,6 +74,7 @@
 // console.log(typeof result3);
 
 // 5 NaN
+
 
 // let value = "abc";
 // let convertedValue = Number(value);
