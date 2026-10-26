@@ -96,13 +96,13 @@
 
 // 7 Real-World bill 
 
-let productPrice = "999";
-let deliveryCharge = 50;
+// let productPrice = "999";
+// let deliveryCharge = 50;
 
-let convertedPrice = Number(productPrice);
-let totalBill = convertedValue + deliveryCharge;
+// let convertedPrice = Number(productPrice);
+// let totalBill = convertedPrice + deliveryCharge;
 
-console.log("product Price:", productPrice);
-console.log("Delivery Charge:", deliveryCharge);
-console.log("Totalbill:", totalBill);
-console.log("Data Type:", typeof totalBill);
+// console.log("product Price:", productPrice);
+// console.log("Delivery Charge:", deliveryCharge);
+// console.log("Totalbill:", totalBill);
+// console.log("Data Type:", typeof totalBill);
