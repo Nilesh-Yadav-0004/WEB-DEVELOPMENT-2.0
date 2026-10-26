@@ -11,7 +11,7 @@
 /* 1 Shopping bill */
 // Price = 250 aur quantity = 4 banao. Total price calculate karke print karo. 
 
-let price = 250;
-let quantity = 4;
+// let price = 250;
+// let quantity = 4;
 
-console.log("Multiplication:", price * quantity);
+// console.log("Multiplication:", price * quantity);
