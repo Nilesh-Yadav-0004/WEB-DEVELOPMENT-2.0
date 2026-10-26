@@ -19,11 +19,13 @@
 /* 2 Remainder */
 // number = 17 banao aur check karo ki number % 2 ka output kya aata hai.
 
-let number = 17;
-console.log("Remainder:", number % 2);
+// let number = 17;
+// console.log("Remainder:", number % 2);
 
 /* 3 Power */
 // base = 2 aur exponent = 5 banao. Power calculate karo using **.
+
+let base = 2;
 
 /* 4 Challenge */
 // totalMarks = 450 aur subjects = 5 banao. Average marks calculate karo.
