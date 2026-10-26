@@ -109,4 +109,4 @@
 
 // 8 Final challenge 
 
-le
+let score = "100";
