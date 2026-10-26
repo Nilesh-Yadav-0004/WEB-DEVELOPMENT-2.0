@@ -111,9 +111,9 @@
 
 let score = "100";
 
-let convertedScore = Number(score);
-let bonusScore = 50;
-let finalScore = convertedScore + bonusScore;
+// let convertedScore = Number(score);
+// let bonusScore = 50;
+// let finalScore = convertedScore + bonusScore;
 
 console.log("original Score:", score);
 console.log("converted Score:", convertedScore);
