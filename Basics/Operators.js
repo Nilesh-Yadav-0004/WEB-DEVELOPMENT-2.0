@@ -15,3 +15,5 @@
 // let quantity = 4;
 
 // console.log("Multiplication:", price * quantity);
+
+/* 2 Remainder */
