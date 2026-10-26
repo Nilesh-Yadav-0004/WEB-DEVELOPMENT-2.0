@@ -38,7 +38,7 @@
 // Boolean(0), Boolean(1), Boolean("") aur Boolean("Hello") ke outputs print karo.
 
 // Task 3: Boolean Conversion
-
+// Boolean(0), Boolean(1), Boolean("") aur Boolean("Hello") print the output
 // let num1 = 0;
 // let num2 = 1;
 // let text1 = "";
@@ -109,14 +109,14 @@
 
 // 8 Final challenge 
 
-let score = "100";
+// let score = "100";
 
-let convertedScore = Number(score);
-let bonusScore = 50;
-let finalScore = convertedScore + bonusScore;
+// let convertedScore = Number(score);
+// let bonusScore = 50;
+// let finalScore = convertedScore + bonusScore;
 
-console.log("original Score:", score);
-console.log("converted Score:", convertedScore);
-console.log("Bonus Score:", bonusScore);
-console.log("final Score:", finalScore);
-console.log("Final Data Type:", typeof finalScore);
+// console.log("original Score:", score);
+// console.log("converted Score:", convertedScore);
+// console.log("Bonus Score:", bonusScore);
+// console.log("final Score:", finalScore);
+// console.log("Final Data Type:", typeof finalScore);
