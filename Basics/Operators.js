@@ -9,3 +9,4 @@
 // console.log("Power:", a ** b);
 
 /* 1 Shopping bill */
+// Price = 250 aur quantity = 4 banao. Total price calculate karke print karo. 
