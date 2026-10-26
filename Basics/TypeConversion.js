@@ -106,3 +106,7 @@
 // console.log("Delivery Charge:", deliveryCharge);
 // console.log("Totalbill:", totalBill);
 // console.log("Data Type:", typeof totalBill);
+
+// 8 Final challenge 
+
+le
