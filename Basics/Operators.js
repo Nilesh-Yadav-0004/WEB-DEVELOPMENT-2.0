@@ -23,4 +23,4 @@
 // base = 2 aur exponent = 5 banao. Power calculate karo using **.
 
 /* 4 Challenge */
-// 
+// totalMarks = 450 aur subjects = 5 banao. Average marks calculate karo.
