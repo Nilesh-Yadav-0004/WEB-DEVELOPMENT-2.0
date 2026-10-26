@@ -110,3 +110,7 @@
 // 8 Final challenge 
 
 let score = "100";
+
+let convertedScore = Number(score);
+let bonusScore = 50;
+let finalScore = convertedScore + bonusScore;
