@@ -84,6 +84,7 @@
 // console.log(Number.isNaN(convertedValue));
 
 // 6 ParseInt() vs Number()
+// parseInt("45.8") aur Number("45.8") ka result compare karo.
 
 // let decimalValue = "45.8";
 
