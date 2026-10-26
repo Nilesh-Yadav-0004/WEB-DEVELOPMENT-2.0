@@ -17,3 +17,7 @@
 // console.log("Multiplication:", price * quantity);
 
 /* 2 Remainder */
+// number = 17 banao aur check karo ki number % 2 ka output kya aata hai.
+
+/* 3 Power */
+// base = 2 aur exponent = 5 banao. Power calculate karo using **.
