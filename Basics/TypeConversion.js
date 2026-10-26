@@ -74,7 +74,7 @@
 // console.log(typeof result3);
 
 // 5 NaN
-
+// Number("abc") ka result aur typeof result print karo.
 
 // let value = "abc";
 // let convertedValue = Number(value);
