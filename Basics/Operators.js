@@ -21,3 +21,6 @@
 
 /* 3 Power */
 // base = 2 aur exponent = 5 banao. Power calculate karo using **.
+
+/* 4 Challenge */
+// 
