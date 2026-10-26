@@ -117,3 +117,4 @@ let finalScore = convertedScore + bonusScore;
 
 console.log("original Score:", score);
 console.log("converted Score:", convertedScore);
+console.log("Bonus Score:", bonusScore);
