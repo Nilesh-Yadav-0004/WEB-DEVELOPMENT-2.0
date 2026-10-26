@@ -98,6 +98,7 @@
 // console.log(typeof result2);
 
 // 7 Real-World bill 
+// Price = "999" aur deliveryCharge = 50 rakho. Correct numeric total calculate karo.
 
 // let productPrice = "999";
 // let deliveryCharge = 50;
