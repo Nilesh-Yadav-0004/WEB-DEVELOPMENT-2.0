@@ -112,6 +112,7 @@
 // console.log("Data Type:", typeof totalBill);
 
 // 8 Final challenge 
+// let score = "100"; score ko number mein convert karke 50 add karo. Result aur data type print karo.
 
 // let score = "100";
 
