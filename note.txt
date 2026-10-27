@@ -22,5 +22,5 @@
 #The + is the operator and 5 and 3 are the operands.
 
 #Types of operators.
-(1)
+(1) Arithmetic operators.
    
