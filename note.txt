@@ -20,4 +20,7 @@
 => #operators are symbols that perform an operation on one or more values (called operands) and produce a result. 
 # For example, in 5 + 3, 
 #The + is the operator and 5 and 3 are the operands.
+
+#Types of operators.
+(1)
    
