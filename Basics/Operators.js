@@ -28,5 +28,10 @@
 let base = 2;
 let exponent = 5;
 console.log("Power:", base ** exponent);
+
+/* Important points for power */
+// Samjho: ** power operator hai. 2 ** 5 ka matlab hai \(2^5\).
+
+// 2 \ 2 \ 2 \ 2 \ 2 = 32.
 /* 4 Challenge */
 // totalMarks = 450 aur subjects = 5 banao. Average marks calculate karo.
