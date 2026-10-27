@@ -26,6 +26,6 @@
 // base = 2 aur exponent = 5 banao. Power calculate karo using **.
 
 let base = 2;
-
+console.log("Po")
 /* 4 Challenge */
 // totalMarks = 450 aur subjects = 5 banao. Average marks calculate karo.
