@@ -23,4 +23,5 @@
 
 #Types of operators.
 (1) Arithmetic operators.
+(2) Logical operators.
    
