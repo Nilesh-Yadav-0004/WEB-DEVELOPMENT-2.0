@@ -16,5 +16,6 @@
    (1) Implicit Conversion.
    (2) Explicit Conversion.
 
+(Q) What are operators in JavaScript?
 
    
