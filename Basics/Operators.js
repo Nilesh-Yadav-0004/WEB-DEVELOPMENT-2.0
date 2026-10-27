@@ -37,3 +37,4 @@
 // totalMarks = 450 aur subjects = 5 banao. Average marks calculate karo.
 
 let totalMarks = 450;
+let subjects = 5;
