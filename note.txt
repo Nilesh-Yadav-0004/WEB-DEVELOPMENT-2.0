@@ -17,5 +17,5 @@
    (2) Explicit Conversion.
 
 (Q) What are operators in JavaScript?
-=> #operators are symbolic 
+=> #operators are symbols
    
